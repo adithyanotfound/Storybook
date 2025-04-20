@@ -39,7 +39,7 @@ A modern, accessible design system built with React, TypeScript, and Tailwind CS
 
 ```sh
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/adithyanotfound/Storybook
 
 # Install dependencies
 npm install
